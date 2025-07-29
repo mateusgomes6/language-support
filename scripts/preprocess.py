@@ -19,3 +19,7 @@ def preprocess_function(examples):
 
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
+
+from datasets import Dataset
+dataset = Dataset.from_pandas(train_df)
+tokenized_dataset = dataset.map(preprocess_function, batched=True)
