@@ -1,0 +1,90 @@
+miocardiopatia dilatada
+hipertensão arterial sistêmica
+CID-10 I20
+artroplastia total de quadril
+gastroenterite aguda
+SARS-CoV-2
+TEP (tromboembolismo pulmonar)
+DPOC
+exacerbação da asma
+neoplasia maligna do cólon
+transaminase pirúvica
+linfoma não-Hodgkin
+endoscopia digestiva alta
+COVID-19
+otorrinolaringologia
+colecistite aguda
+diabetes mellitus tipo 2
+encefalopatia hepática
+fibrilação atrial
+glomerulonefrite membranosa
+hemoglobina glicada
+infarto agudo do miocárdio
+leucemia mieloide aguda
+meningite bacteriana
+nistagmo
+osteoporose severa
+pneumonia aspirativa
+quimioterapia adjuvante
+ressecção segmentar
+síndrome de Guillain-Barré
+trombose venosa profunda
+úlcera varicosa
+varicela-zóster
+acidente vascular encefálico
+broncodilatador
+cisto renal
+dislipidemia
+ectopia cordis
+fratura exposta
+gastrite erosiva
+hemorragia subaracnóidea
+ictério obstrutivo
+lúpus eritematoso sistêmico
+miastenia gravis
+nefrolitíase
+otorreia
+poliarterite nodosa
+quadriplegia
+rinossinusite crônica
+sarcoma de Kaposi
+transtorno bipolar
+uveíte anterior
+alopecia areata
+bradicardia sinusal
+carcinoma ductal in situ
+discinesia tardia
+estenose aórtica
+fibrose pulmonar idiopática
+ginecomastia
+hematúria macroscópica
+insuficiência adrenal
+leucoplasia pilosa
+melanoma maligno
+neuropatia diabética
+oligúria
+púrpura trombocitopênica
+rabdomiólise
+síndrome de Cushing
+tireotoxicose
+alergia à penicilina
+blastocisto
+crioterapia
+disfunção erétil
+embolia gasosa
+fístula enterocutânea
+galactorreia
+hemossiderose
+impetigo bolhoso
+linfedema
+mieloma múltiplo
+nódulo pulmonar solitário
+ortopedia
+parasitose intestinal
+queimadura de terceiro grau
+retinopatia diabética
+sífilis congênita
+tétano acidental
+alucinação auditiva
+broncoespasmo
+cefaleia em salvas
